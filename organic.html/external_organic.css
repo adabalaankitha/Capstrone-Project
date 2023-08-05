@@ -1,0 +1,238 @@
+.a{
+	height: 3100px;
+	width: 1000px;
+	background-color: pink;
+
+}
+.b{
+	height: 500px;
+	width: 1000px;
+	background-color: red;
+
+}
+.d{
+	height: 500px;
+	width: 550px;
+	background-color: lightblue;
+	float: left;
+}
+.e{
+	height: 500px;
+	width: 45	0px;
+	background-color: lightblue;
+	float: left;
+}
+.c{
+	height: 2500px;
+	width: 1000px;
+	background-color: blue;
+}
+.f{
+	height: 100px;
+	width: 1000px;
+	background-color: lightblue;
+}
+.f p{
+	color: green;
+	/*padding-left: 50px;
+	padding-top: 30px;*/
+	padding-top:10px;
+	margin-left:90px;
+	
+}
+.g{
+	height: 3000px;
+	width: 1000px;
+
+}
+h1{
+	
+	margin-left: 50px;
+	color: red;
+	
+}
+h3{
+	margin-top: 80px;
+	margin-left: 105px;
+	color: green;
+}
+h5{
+		margin-left: 85px;
+		color: black;
+
+}
+p{
+	margin-left: 850px;
+	color: green;
+	font-size: 50px;
+}
+.i{
+  background-color: green;
+  color: white;
+  margin-left: 100px;
+
+}
+/*.j{
+	height:2500px;
+	width: 1000px;
+	background-color: yellow; 
+}*/
+.k{
+	height: 630px;
+	width: 1000px;
+	background-color: green;
+
+}
+.l{
+	height: 1900px;
+	width: 1000px;
+	background-color: orange;
+}
+.m{
+	height: 200px;
+	width: 1000px;
+	background-color: green;
+	float: left;
+}
+.n{
+	height: 610px;
+	width: 1000px;
+	background-color: green;
+
+}
+.o{
+	color: white;
+	background-color: green;
+	padding-top: 30px;
+}
+ h6{
+	color: white;
+}
+.q{
+	height: 210px;
+	width: 330px;
+	background-color: green;
+	float: left;
+
+}
+img{
+	margin:25px;
+}
+.r{
+	height: 200px;
+	width: 330px;
+	background-color: white;
+    float: left;
+
+}
+.s{
+	height: 290px;
+	width: 1000px;
+	background-color: white;
+
+}
+.u{
+	height: 290px;
+	width: 500px;
+	float: left;
+	background-color: white;
+
+}
+.t{
+	height: 1710px;
+	width: 1000px;
+}
+.v{
+	height: 400px;
+	width: 1000px;
+	background-color: green;
+}
+.w{
+	height: 1310px;
+	width: 1000px;
+	background-color: yellow;
+
+}
+.x{
+  height: 150px;
+  width: 1000px;
+  background-color: white;
+
+}
+.y{
+	height:1350px;
+	width: 1000px;
+	background-color: white; 
+}
+.z{
+	height: 350px;
+	width: 1000px;
+}
+.A{
+	height: 500px;
+	width:1000px
+	background-color:white;
+	
+}
+.B{
+	height: 1000px;
+	width: 1000px;
+	background-color: white;
+	
+
+}
+.C{
+	height: 725px;
+	width: 1000px;
+	background-color: white;
+}
+.D{
+	height: 350px;
+	width: 500px;
+	float: left;
+	background-color: white;
+
+}
+.D p{
+	color: green;
+	/*padding-left: 50px;
+	padding-top: 30px;*/
+	padding-top:10px;
+	margin-left:150px;
+	font-size: 20px;
+
+}
+.D i{
+	font-size: 50px;
+	color: red;
+	margin-left:80px; 
+}
+.E{
+	background-color: white;
+	color: white;
+	margin-left: 80px;
+
+} 
+.Z{
+	height: 500px;
+	width: 1000px;
+	background-color: white;
+}
+.y{
+	height: 500px;
+	width: 500px;
+	float: left;
+}
+.R{
+	height: 500px;
+	width: 500px;
+}
+.G{
+	height: 500px;
+	width: 500px;
+	float: left;
+
+}
+
+
+
