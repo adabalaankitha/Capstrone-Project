@@ -12,13 +12,13 @@
 }
 .d{
 	height: 500px;
-	width: 550px;
+	width: 400px;
 	background-color: lightblue;
 	float: left;
 }
 .e{
 	height: 500px;
-	width: 45	0px;
+	width: 600px;
 	background-color: lightblue;
 	float: left;
 }
@@ -36,8 +36,9 @@
 	color: green;
 	/*padding-left: 50px;
 	padding-top: 30px;*/
-	padding-top:10px;
+	padding-top:40px;
 	margin-left:90px;
+	font-size:30px;
 	
 }
 .g{
@@ -49,10 +50,14 @@ h1{
 	
 	margin-left: 50px;
 	color: red;
-	
 }
-h3{
-	margin-top: 80px;
+.d h3{
+	margin-top: 90px;
+	margin-left: 105px;
+	color: green;
+}
+.u h3{
+	margin-top: 90px;
 	margin-left: 105px;
 	color: green;
 }
@@ -61,15 +66,15 @@ h5{
 		color: black;
 
 }
-p{
+/*p{
 	margin-left: 850px;
 	color: green;
-	font-size: 50px;
-}
+}*/
 .i{
   background-color: green;
   color: white;
   margin-left: 100px;
+  padding-bottom: 5px;
 
 }
 /*.j{
@@ -84,7 +89,7 @@ p{
 
 }
 .l{
-	height: 1900px;
+	height: 1430px;
 	width: 1000px;
 	background-color: orange;
 }
@@ -111,16 +116,22 @@ p{
 .q{
 	height: 210px;
 	width: 330px;
-	background-color: green;
+	background-color:green;
 	float: left;
 
+
 }
-img{
-	margin:25px;
+.q img{
+	margin: 30px;
 }
+/*img{
+	margin-left:100px;
+}*/
 .r{
 	height: 200px;
-	width: 330px;
+	width: 300px;
+margin-left: 20px;
+
 	background-color: white;
     float: left;
 
@@ -132,107 +143,241 @@ img{
 
 }
 .u{
-	height: 290px;
+	height: 310px;
 	width: 500px;
 	float: left;
 	background-color: white;
 
 }
 .t{
-	height: 1710px;
+	height: 1160px;
 	width: 1000px;
+	background-color: yellow;
 }
-.v{
+.u img{
+	margin: 20px;
+}
+.r img{
+	padding-left: 0px;
+	padding-top: 15px;
+}
+.x{
 	height: 400px;
+	width: 1000px;
+	background-color: white;
+
+}
+.F{
+	height: 250PX;
 	width: 1000px;
 	background-color: green;
 }
-.w{
-	height: 1310px;
-	width: 1000px;
-	background-color: yellow;
-
-}
-.x{
-  height: 150px;
-  width: 1000px;
-  background-color: white;
-
-}
-.y{
-	height:1350px;
-	width: 1000px;
-	background-color: white; 
-}
-.z{
-	height: 350px;
-	width: 1000px;
-}
-.A{
-	height: 500px;
-	width:1000px
-	background-color:white;
-	
-}
-.B{
-	height: 1000px;
+.G{
+	height: 150px;
 	width: 1000px;
 	background-color: white;
-	
+}
+.y{
+	height: 760px;
+	width:1000px;
+	background-color: blue;
+}
+/*.v{
+	height: 250px;
+	width: 500px;
+	background-color: blue;
+	float: left;
+}
+.w{
+	height: 250px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
+.w h3{
+	margin-top: 20px;
+	margin-left: 105px;
+	color: green;
+}*/
+/*.E{
+	height: 250px;
+			width: 1000px;
+			background-color: green;
+			position:static ;
+			float: left;
+}*/
+.A{
+	height: 250px;
+			width: 175px;
+			background-color: white;
+			position:relative;
+			top: 32px;
+			left: 90px;
+			float: left;
+
+}
+.B{
+	height: 250px;
+			width: 175px;
+			background-color: white;
+			position:relative;
+			top: 32px;
+			left: 120px;
+			float: left;
 
 }
 .C{
-	height: 725px;
-	width: 1000px;
-	background-color: white;
+	height: 250px;
+			width: 175px;
+			background-color: white;
+			position:relative;
+			top: 32px;
+			left: 160px;
+			float: left;
+
 }
 .D{
-	height: 350px;
-	width: 500px;
-	float: left;
-	background-color: white;
+	height: 250px;
+			width: 175px;
+			background-color: white;
+			position:relative;
+			top: 32px;
+			left: 200px;
+			float: left;
 
 }
-.D p{
-	color: green;
-	/*padding-left: 50px;
-	padding-top: 30px;*/
-	padding-top:10px;
-	margin-left:150px;
-	font-size: 20px;
+/*.G{
+	height: 400px;
+			width: 175px;
+			background-color: blue;
+			position:relative;
+			top: 185px;
+			left: 120px;
+			float: left;
 
+}*/
+.J h3{
+    color: green;
 }
-.D i{
-	font-size: 50px;
-	color: red;
-	margin-left:80px; 
-}
-.E{
+.J i{
+	color: black;
 	background-color: white;
+}
+.J{
+	height: 107px;
+	width: 175px;
+background-color: white;
+}
+.H{
+	height: 125px;
+	width: 175px;
+	background-color: brown;
+}
+.F h2{
 	color: white;
-	margin-left: 80px;
+	padding-top: 10px;
+	/*padding-left: 375px;*/
+}
+.F p{
+	color: white;
+}
+/*.K{
+	height: 300px;
+	width: 1000px;
+	background-color: pink;
+}*/
+.M{
+	height: 760px;
+	width: 1000px;
+	background-color: pink;
+}
+.N{
+	height: 300px;
+	width: 1000px;
+	background-color: green;
+}
+.O{
+	height: 460px;
+	width: 1000px;
+	background-color: lightblue;
+}
+.P{
+	height: 300px;
+	width: 500px;
+	background-color: violet;
+	float: left;
+}
+.Q{
+	height: 300px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
+.Q h3{
+	margin-top: 20px;
+	margin-left: 105px;
+	color: green;
 
-} 
-.Z{
-	height: 500px;
+}
+.S{
+	height: 350px;
+	width: 250px;
+	background-color: black;
+	float: left;
+	margin-bottom: 40px;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.T{
+	height: 175px;
+	width: 250px;
+	background-color: white;
+}
+.U{
+	height: 175px;
+	width: 250px;
+	background-color: white;
+}
+.T img{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.W{
+	height: 300px;
 	width: 1000px;
 	background-color: white;
 }
-.y{
-	height: 500px;
+.X{
+	height: 300px;
 	width: 500px;
+	background-color: white;
 	float: left;
 }
-.R{
-	height: 500px;
+.Y{
+	height: 300px;
 	width: 500px;
-}
-.G{
-	height: 500px;
-	width: 500px;
+	background-color: green;
 	float: left;
-
 }
+.X h3{
 
-
-
+	margin-top: 20px;
+	margin-left: 105px;
+	color: green;
+}
+.Z{
+	height: 300px;
+	width: 1000px;
+	background-color: blue;
+}
+.w{
+	height: 300px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
